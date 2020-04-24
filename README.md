@@ -3,6 +3,8 @@
 
 Hello, my name is **Max Daunarovich**. I am a **Front-End Developer** with, what I believe, quite rare skill - extensive 
 knowledge and production experience in the field of User Interface and User Experience design.
+I live in the city of Minsk, Republic of Belarus.
+Father of 4 lovely little "rascals" 😂
 
 ## Hard Skills
 Being designer and developers is not an easy task and one need to know a lof of different tools and possess specific
@@ -41,7 +43,6 @@ refactor and improve it.
 theories and latest hot TV shows. You name it - and I probably have opinion on the topic. It might be not the deepest one,
 but you won't be disappointed and at least would get a good `listener`
  
-
 ### Open Source Contribution
 I had and chance to participate in several open source projects. Most noticeable are:
 - [GitCoin](https://github.com/gitcoinco/web) - GitCoin was my very first open-source project, where I submitted a PR. 
@@ -55,6 +56,23 @@ top of Burner Wallet. My contribution included work on smart contracts and front
 Burner Wallet.
 - [Burner Wallet](https://github.com/burner-wallet) - several of the previously mentioned project, where utilizing the
 Power of Burner Wallet and some of the solutions I've came up with, were pushed upstream.
+
+### Personal Projects
+- [Dungeon Riches](https://leap.dungeonriches.com) - Once upon a time I was working on a gambling site and thought if there
+is a way to make it more fun and engaging... So I started a new project and called it "Dungeon Riches". Originally it was
+supposed to be built on top of Bitcoin node, but later it was ported to LeapNetwork chain. Unfortunately the game itself is 
+currently down, due to the fact that LeapNetwork has killed testnet... Though, you can check how it supposed to 
+be working [here](https://www.loom.com/share/be4e2265085442eca405097878e11e88). During development process I had a chance
+to try so many hats:
+ - Made game design and core gameplay - utulizing paper prototypes and quick build iterations
+ - Developed Blockchain and LeapNetwork node interaction code
+ - Tried different authorization solutions and databased solutions - `Firebase`, `Facebook API`, `passport`
+ - Created setup with `Mongo` database and designed schema and models necessary for the game to operate
+ - Developed visual representation of the game utilizing `pixi.js` rendering engine
+ - Planned and managed *(maybe that's a strong word, provided I was mostly doing it alone)* features using `Trello` 
+ and `Github Projects`
+ - I even wrote a business plan and sent it together with application for the grant
+
 
 ### Fun Projects
 From time to time I stumble into a new piece of technology or some fancy idea and I try to explore it and see what I can
@@ -70,9 +88,19 @@ editor. The devs were really helpful and community responsive. I had a chance to
 flyers for Berlin Blockchain Week. Build some fancy projects, like avatar generator and component factory, and help other
 members, when they were stuck with some common problems. One of the best times in 2019 🤗
 
+### Social Media
+- [Twitter](https://twitter.com/MaxStalker)
+- [Medium](https://medium.com/@maxdaunarovich/)
+
+### Other links
+- [Dribble](https://dribbble.com/MaxStalker)
+- [CodeWars](https://www.codewars.com/users/MaxStalker)
+
 ### Interests
 - Real-world Blockchain application
 - Game Design and Development
 - Game Theory
 - User Interface and User Experience Design
 - Motion Graphics
+- Books
+- Manga and Anime
