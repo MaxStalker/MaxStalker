@@ -97,10 +97,11 @@ members, when they were stuck with some common problems. One of the best times i
 - [CodeWars](https://www.codewars.com/users/MaxStalker)
 
 ### Interests
-- Real-world Blockchain application
+- Real-world Blockchain applications
+- Teaching and Mentoring
 - Game Design and Development
 - Game Theory
 - User Interface and User Experience Design
 - Motion Graphics
-- Books
+- Books - from classic Japanese literature to sci-fi
 - Manga and Anime
