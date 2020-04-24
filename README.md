@@ -6,7 +6,7 @@ knowledge and production experience in the field of User Interface and User Expe
 I live in the city of Minsk, Republic of Belarus.
 Father of 4 lovely little "rascals" 😂
 
-## Hard Skills
+### Hard Skills
 Being designer and developers is not an easy task and one need to know a lof of different tools and possess specific
 skills in order to do the job right. Below you can find some of the stuff that I know I can do good:
 
@@ -29,7 +29,7 @@ of building web applications using them
 and without additional CSS frameworks. I've utilized `BAM` methodology in several projects, though I might admit it's not
 my strongest suit.
 
-## Soft Skills
+### Soft Skills
 - **Open Minded** - I always listen to the person I'm interacting with, just to hear their line of reasoning and see that
 maybe my line of thought is wrong 😊
 - **High level of empathy** - I'm always there when there is person in need. I may sacrifice my own comfort and free time for
