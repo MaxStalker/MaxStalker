@@ -53,7 +53,7 @@ Later I made some additional changes to visual design and HTML layout. [GitCoin 
 sports icons I've designed in `Gitcoin Platform Stats` section
 - [LeapDAO](https://github.com/leapdao) was building a Layer-2 scaling solution via plasma blockchain. I have participated 
 in several repositories, contributing to smart contracts, front-end, documentation, tutorials and core development.
-- [DEORA](https://github.com/deora-earth/voting-frontend) was building quadrating solution for VOLT party, building on 
+- [DEORA](https://github.com/deora-earth/voting-frontend) was building quadratic voting solution for VOLT party, building on 
 top of Burner Wallet. My contribution included work on smart contracts and front-end design and development.
 - [Planet A](https://github.com/social-dist0rtion-protocol/planet-a) is a social game built on top of Leap Network and
 Burner Wallet.
