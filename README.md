@@ -1,5 +1,5 @@
 ### About me
-<img src="portrait.jpg" alt="Yeah, this is me 😉" width="400px" height="auto"/>
+<img src="portrait.jpg" alt="Yeah, this is me 😉" width="60%" height="auto"/>
 
 Hello, my name is **Maksim Daunarovich**. I am a Front-End Developer with, what I believe, quite rare skill - I posses
 extensive working knowledge and experience in the field of User Interface and User Experience design.
