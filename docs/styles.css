@@ -38,8 +38,8 @@ h1 {
 
 h2 {
   font-weight: 100;
-  font-size: 28px;
-  margin-bottom: 0.5em;
+  font-size: 24px;
+  margin-bottom: 0.25em;
   color: var(--color-light-grey);
 }
 
@@ -74,11 +74,14 @@ aside h1 {
   margin-bottom: 24px;
 }
 aside .story {
-  margin-bottom: 32px;
+  margin-bottom: 20px;
   font-size: 20px;
   line-height: 1.35;
   font-weight: 100;
   color: var(--color-bright-blue);
+}
+aside .story:last-of-type {
+  margin-bottom: 40px;
 }
 
 main {
@@ -131,6 +134,9 @@ main {
   width: 100%;
   margin-bottom: 32px;
 }
+.job:last-of-type {
+  margin-bottom: 0;
+}
 .job.job-highlight p {
   font-size: 16px;
 }
@@ -164,6 +170,12 @@ main {
 }
 .job p {
   font-size: 14px;
+}
+.job li {
+  margin-bottom: 0.5em;
+}
+.job ul {
+  margin: 0;
 }
 
 @page {
