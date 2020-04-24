@@ -1,11 +1,16 @@
-### About me
+## About me
 <img src="portrait.jpg" alt="Yeah, this is me 😉" width="60%" height="auto"/>
 
-Hello, my name is **Maksim Daunarovich**. I am a Front-End Developer with, what I believe, quite rare skill - I posses
-extensive working knowledge and experience in the field of User Interface and User Experience design.
+Hello, my name is **Max Daunarovich**. I am a **Front-End Developer** with, what I believe, quite rare skill - extensive 
+knowledge and production experience in the field of User Interface and User Experience design.
 
-### Skills
-- Range of bitmap and vector editors - `Photoshop`, `Illustrator`, `Figma` are my main weapons in that field
+## Hard Skills
+Being designer and developers is not an easy task and one need to know a lof of different tools and possess specific
+skills in order to do the job right. Below you can find some of the stuff that I know I can do good:
+
+- I know range of bitmap and vector editors - `Photoshop`, `Illustrator` and `Figma` are my main weapons in that field
+- `AfterEffects` for motion graphics, reference and prototypes
+- `Framer` for interaction prototypes
 - My development toolbelt is revolving around `React` and libraries from React ecosystem: 
     - `Redux`, `MST` and `Mobx` for state management
     - `Styled Components`
@@ -13,11 +18,35 @@ extensive working knowledge and experience in the field of User Interface and Us
     - `Storybook`
 - Different charting libraries - most of them based on **D3** - `Highcharts`, `React-Stockcharts`, `Chart.js` 
 just to name a few
-- `web3.js` and `ethers.js` - while these are not the libraries I'm using on day-to-day basis, I have a working experience
-of building web applications using them 
+- When the job asks for it I can make some simple API utilizing `Node.js` and `Express.js`. Nothing fancy, that will blow
+you mind, but it will do the work, until the heavy artillery in the face of back-end developers come to the aid.
+- `Web3.js` and `Ethers.js` - while these are not the libraries I'm using on day-to-day basis, I have a working experience
+of building web applications using them
+- HTML template engines like `Mustache` and `Twig` (they don't suit my taste, but I know how to cook them)
+- I know `CSS-Fu` and can express it with `Vanilla CSS` and `SASS/SCSS`. I am able to implement responsive design with 
+and without additional CSS frameworks. I've utilized `BAM` methodology in several projects, though I might admit it's not
+my strongest suit.
+
+## Soft Skills
+- **Open Minded** - I always listen to the person I'm interacting with, just to hear their line of reasoning and see that
+maybe my line of thought is wrong 😊
+- **High level of empathy** - I'm always there when there is person in need. I may sacrifice my own comfort and free time for
+the sake of random person, who is currently stuck with problem I know I can solve.
+- **Team Player** - I hate reaping the fruits of success alone. I'd rather finish last, but together with other team members,
+knowing we've done all we collectively could.
+- **Smart Worker** - might sound a bit like a bravado, but I believe there are a lot of cases, when you don't need to 
+create solution from scratch and it would be much more productive to build on top of existing solutions and later on
+refactor and improve it.
+- **Smooth Talker** - if you don't shut me up I can talk for hours about politics, religion, comic books and games, conspiracy
+theories and latest hot TV shows. You name it - and I probably have opinion on the topic. It might be not the deepest one,
+but you won't be disappointed and at least would get a good `listener`
+ 
 
 ### Open Source Contribution
 I had and chance to participate in several open source projects. Most noticeable are:
+- [GitCoin](https://github.com/gitcoinco/web) - GitCoin was my very first open-source project, where I submitted a PR. 
+Later I made some additional changes to visual design and HTML layout. [GitCoin results](https://gitcoin.co/results) still
+sports icons I've designed in `Gitcoin Platform Stats` section
 - [LeapDAO](https://github.com/leapdao) was building a Layer-2 scaling solution via plasma blockchain. I have participated 
 in several repositories, contributing to smart contracts, front-end, documentation, tutorials and core development.
 - [DEORA](https://github.com/deora-earth/voting-frontend) was building quadrating solution for VOLT party, building on 
