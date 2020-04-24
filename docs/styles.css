@@ -18,8 +18,8 @@ body {
   --color-yellow: #e9a429;
   --font-raleway: "Raleway", sans-serif;
   --font-oswald: "Oswald", sans-serif;
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: 42% 1fr;
   background-color: #181849;
   font-family: var(--font-raleway);
   line-height: 1.35;
@@ -60,7 +60,7 @@ a {
 }
 
 aside {
-  width: 38%;
+  width: 100%;
   background-color: #181849;
   padding: 50px 30px 30px 60px;
   box-sizing: border-box;
@@ -164,6 +164,11 @@ main {
 }
 .job p {
   font-size: 14px;
+}
+
+@page {
+  size: 210mm 297mm;
+  margin: 27mm 16mm 27mm 16mm;
 }
 
 /*# sourceMappingURL=styles.css.map */
