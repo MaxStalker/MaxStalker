@@ -30,6 +30,9 @@ and without additional CSS frameworks. I've utilized `BAM` methodology in severa
 my strongest suit.
 
 ### Soft Skills
+- **Initiative** - I can start and work on the problem without any additional guidance. If I will feel that the problem 
+is too tough for me handle it alone or I'm missing some crucial piece of knowledge, I will consult every person, that might
+have it 😊 
 - **Open Minded** - I always listen to the person I'm interacting with, just to hear their line of reasoning and see that
 maybe my line of thought is wrong 😊
 - **High level of empathy** - I'm always there when there is person in need. I may sacrifice my own comfort and free time for
@@ -59,19 +62,19 @@ Power of Burner Wallet and some of the solutions I've came up with, were pushed 
 
 ### Personal Projects
 - [Dungeon Riches](https://leap.dungeonriches.com) - Once upon a time I was working on a gambling site and thought if there
-is a way to make it more fun and engaging... So I started a new project and called it "Dungeon Riches". Originally it was
+is a way to make it more fun and engaging... So I started a new project and called it **"Dungeon Riches"**. Originally it was
 supposed to be built on top of Bitcoin node, but later it was ported to LeapNetwork chain. Unfortunately the game itself is 
 currently down, due to the fact that LeapNetwork has killed testnet... Though, you can check how it supposed to 
 be working [here](https://www.loom.com/share/be4e2265085442eca405097878e11e88). During development process I had a chance
 to try so many hats:
- - Made game design and core gameplay - utulizing paper prototypes and quick build iterations
- - Developed Blockchain and LeapNetwork node interaction code
- - Tried different authorization solutions and databased solutions - `Firebase`, `Facebook API`, `passport`
- - Created setup with `Mongo` database and designed schema and models necessary for the game to operate
- - Developed visual representation of the game utilizing `pixi.js` rendering engine
- - Planned and managed *(maybe that's a strong word, provided I was mostly doing it alone)* features using `Trello` 
- and `Github Projects`
- - I even wrote a business plan and sent it together with application for the grant
+    - Made game design and core gameplay - utulizing paper prototypes and quick build iterations
+    - Developed Blockchain and LeapNetwork node interaction code
+    - Tried different authorization solutions and databased solutions - `Firebase`, `Facebook API`, `passport`
+    - Created setup with `Mongo` database and designed schema and models necessary for the game to operate
+    - Developed visual representation of the game utilizing `pixi.js` rendering engine
+    - Planned and managed *(maybe that's a strong word, provided I was mostly doing it alone)* features using `Trello` 
+    and `Github Projects`
+    - I even wrote a business plan and sent it together with application for the grant
 
 
 ### Fun Projects
