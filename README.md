@@ -18,7 +18,7 @@ skills in order to do the job right. Below you can find some of the stuff that I
     - `Styled Components`
     - `Styled System`
     - `Storybook`
-- Different charting libraries - most of them based on **D3** - `Highcharts`, `React-Stockcharts`, `Chart.js` 
+- Different charting libraries - `Highcharts`, `React-Stockcharts`, `Chart.js` 
 just to name a few
 - When the job asks for it I can make some simple API utilizing `Node.js` and `Express.js`. Nothing fancy, that will blow
 you mind, but it will do the work, until the heavy artillery in the face of back-end developers come to the aid.
