@@ -47,7 +47,7 @@ theories and latest hot TV shows. You name it - and I probably have opinion on t
 but you won't be disappointed and at least would get a good `listener`
  
 ### Open Source Contribution
-I had and chance to participate in several open source projects. Most noticeable are:
+I had a chance to participate in several open source projects. Most noticeable are:
 - [GitCoin](https://github.com/gitcoinco/web) - GitCoin was my very first open-source project, where I submitted a PR. 
 Later I made some additional changes to visual design and HTML layout. [GitCoin results](https://gitcoin.co/results) still
 sports icons I've designed in `Gitcoin Platform Stats` section
