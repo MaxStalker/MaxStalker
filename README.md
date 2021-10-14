@@ -7,7 +7,7 @@ I live in the city of Minsk, Republic of Belarus.
 Father of 4 lovely little "rascals" 😂
 
 ### Hard Skills
-Being designer and developers is not an easy task and one need to know a lof of different tools and possess specific
+Being designer and developer is not an easy task and one need to know a lof of different tools and possess specific
 skills in order to do the job right. Below you can find some of the stuff that I know I can do good:
 
 - I know range of bitmap and vector editors - `Photoshop`, `Illustrator` and `Figma` are my main weapons in that field
