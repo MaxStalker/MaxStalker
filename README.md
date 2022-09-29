@@ -8,7 +8,7 @@ Father of 4 lovely little "rascals" 😂
 
 ### Hard Skills
 Being designer and developer is not an easy task and one need to know a lof of different tools and possess specific
-skills in order to do the job right. Below you can find some of the stuff that I know I can do good:
+skills in order to do the job right. Below you can find list of tasks that I know I can do good:
 
 - I know range of bitmap and vector editors - `Photoshop`, `Illustrator` and `Figma` are my main weapons in that field
 - `AfterEffects` for motion graphics, reference and prototypes
@@ -17,6 +17,7 @@ skills in order to do the job right. Below you can find some of the stuff that I
     - `Redux`, `MST` and `Mobx` for state management
     - `Styled Components`
     - `Styled System`
+    - `Tailwind CSS`
     - `Storybook`
 - Different charting libraries - `Highcharts`, `React-Stockcharts`, `Chart.js` 
 just to name a few
@@ -48,13 +49,17 @@ but you won't be disappointed and at least would get a good `listener`
  
 ### Open Source Contribution
 I had a chance to participate in several open source projects. Most noticeable are:
-- [GitCoin](https://github.com/gitcoinco/web) - GitCoin was my very first open-source project, where I submitted a PR. 
-Later I made some additional changes to visual design and HTML layout. [GitCoin results](https://gitcoin.co/results) still
-sports icons I've designed in `Gitcoin Platform Stats` section
+- [Flow Network](https://github.com/onflow) - I've participated on multiple projects within Flow - Core Contracts, CLI and Playground,
+- doing my best by improving quality of life and developer experience. I started two projects - Flow Cadut and Flow JS Testing - 
+both being used in production by multiple teams. I also wrote 16 post series on DEV.to showcasing most common use cases for Flow Client Library 
+(FCL) - [DEV.to - Learn FCL](https://dev.to/maxstalker/series/18199)
 - [LeapDAO](https://github.com/leapdao) was building a Layer-2 scaling solution via plasma blockchain. I have participated 
 in several repositories, contributing to smart contracts, front-end, documentation, tutorials and core development.
 - [DEORA](https://github.com/deora-earth/voting-frontend) was building quadratic voting solution for VOLT party, building on 
 top of Burner Wallet. My contribution included work on smart contracts and front-end design and development.
+- [GitCoin](https://github.com/gitcoinco/web) - GitCoin was my very first open-source project, where I submitted a PR.
+    Later I made some additional changes to visual design and HTML layout. [GitCoin results](https://gitcoin.co/results) still
+    sports icons I've designed in `Gitcoin Platform Stats` section
 - [Planet A](https://github.com/social-dist0rtion-protocol/planet-a) is a social game built on top of Leap Network and
 Burner Wallet.
 - [Burner Wallet](https://github.com/burner-wallet) - several of the previously mentioned project, where utilizing the
@@ -90,6 +95,10 @@ Flow community were missing.
 editor. The devs were really helpful and community responsive. I had a chance to build plugins, that I used to prepare
 flyers for Berlin Blockchain Week. Build some fancy projects, like avatar generator and component factory, and help other
 members, when they were stuck with some common problems. One of the best times in 2019 🤗
+- [Goatdex](https://www.goatdex.com) is a tool to track personal and overall ownership and statistics for [GoatedGoats](https://goatedgoats.com/) 
+project.
+- [Code Scout](https://www.codescout.xyz/) is a smart contract explorer for Flow Network, providing you a way to find the address 
+of a specific contract and lots of additional helpful information. Built with `React`, `NextJS`, `Vercel` and `Prisma`.
 
 ### Social Media
 - [Twitter](https://twitter.com/MaxStalker)
