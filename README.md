@@ -50,7 +50,7 @@ but you won't be disappointed and at least would get a good `listener`
 ### Open Source Contribution
 I had a chance to participate in several open source projects. Most noticeable are:
 - [Flow Network](https://github.com/onflow) - I've participated on multiple projects within Flow - Core Contracts, CLI and Playground,
-- doing my best by improving quality of life and developer experience. I started two projects - Flow Cadut and Flow JS Testing - 
+doing my best by improving quality of life and developer experience. I started two projects - Flow Cadut and Flow JS Testing - 
 both being used in production by multiple teams. I also wrote 16 post series on DEV.to showcasing most common use cases for Flow Client Library 
 (FCL) - [DEV.to - Learn FCL](https://dev.to/maxstalker/series/18199)
 - [LeapDAO](https://github.com/leapdao) was building a Layer-2 scaling solution via plasma blockchain. I have participated 
