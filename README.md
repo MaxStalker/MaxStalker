@@ -28,4 +28,5 @@ Development
 
 ## 📊 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxStalker&show_icons=true&theme=shades-of-purple)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxStalker&theme=shades-of-purple)
